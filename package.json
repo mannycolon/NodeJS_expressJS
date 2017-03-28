@@ -4,10 +4,12 @@
   "description": "",
   "main": "expressNodeServer.js",
   "dependencies": {
+    "async": "~0.2.8",
     "express": "^4.15.2",
     "http": "^0.0.0",
     "morgan": "^1.8.1",
-    "node": "^0.0.0"
+    "node": "^0.0.0",
+    "socket.io": "~0.9.14"
   },
   "devDependencies": {},
   "scripts": {
