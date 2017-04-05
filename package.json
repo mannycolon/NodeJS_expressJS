@@ -5,11 +5,13 @@
   "main": "expressNodeServer.js",
   "dependencies": {
     "async": "~0.2.8",
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "http": "^0.0.0",
     "morgan": "^1.8.1",
     "node": "^0.0.0",
-    "socket.io": "~0.9.14"
+    "socket.io": "~0.9.14",
+    "stylus": "^0.54.5"
   },
   "devDependencies": {},
   "scripts": {
